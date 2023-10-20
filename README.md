@@ -1,11 +1,14 @@
 # Validation-of-Financial-datasets-to-check-its-integrity-and-consistency
 Validation of Financial datasets to check its integrity and consistency using feature selection that may impact financial analysis and decision-making
 
-#1-Worked-Example 
+# 1-Worked-Example 
+
 
 **How can we validate financial datasets to ensure their consistency and integrity, using feature selection that may impact financial analysis and decision-making?**
 
+
 Dataset Used - NYSE and NASDAQ stock prices (https://www.kaggle.com/datasets/nikbearbrown/q2-2023-company-overview-nasdaq-nyse-amex) 
+
 
 PCA and RFE Recursive Feature Elimination used for Feature Selection for data validation
 
